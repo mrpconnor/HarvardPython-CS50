@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "HarvardPython", "HarvardPython\HarvardPython.pyproj", "{8D0621C3-AA51-4F1E-BD36-FFF52859FAFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D0621C3-AA51-4F1E-BD36-FFF52859FAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D0621C3-AA51-4F1E-BD36-FFF52859FAFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB169A6F-202B-490B-BA4D-4C17441C47AB}
+	EndGlobalSection
+EndGlobal
